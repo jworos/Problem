@@ -60,3 +60,22 @@ Created a new Git Repo, cloned it using terminal, edited the README.md file in V
 
 
 <img width="579" alt="Screenshot 2022-04-12 at 20 52 10" src="https://user-images.githubusercontent.com/85462184/163042719-4bb73f4e-d40e-4f73-92c9-d8008d35321f.png">
+
+
+Problem 2
+
+For this problem, I connected my phone to my computer using Xender, then I scanned the IP address from Xender connecting my Pc and Phone using Zenmap app.
+
+Before scanning, I sent packets to the IP (172.20.10.1) using the ping command
+
+After scanning, I got the following open ports;
+
+21 - Ftp
+53 - Domain 
+6789 - Ibm-db2-admin
+62078 - iPhone-sync
+
+I was able to connect to these ports using Netcat on terminal.
+![Uploading Screenshot 2022-04-12 at 21.09.15.png…]()
+<img width="586" alt="Screenshot 2022-04-12 at 21 05 41" src="https://user-images.githubusercontent.com/85462184/163054872-7faa88ae-5b1a-41a3-9afe-aec03c4edb05.png">
+
