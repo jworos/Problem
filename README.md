@@ -55,3 +55,7 @@ Amazon came up with 3 IP addresses after scanning:
 Tested all open ports, also tested the closed port from Facebook.com, but that didn’t connect.
 
 Created a new Git Repo, cloned it using terminal, edited the README.md file in VSCODE, and commited the edit using terminal after saving on VsCode.
+<img width="1148" alt="Screenshot 2022-04-12 at 20 18 57" src="https://user-images.githubusercontent.com/85462184/163042430-4299eded-f880-4233-b4c7-044709539934.png">
+
+
+<img width="579" alt="Screenshot 2022-04-12 at 20 52 10" src="https://user-images.githubusercontent.com/85462184/163042719-4bb73f4e-d40e-4f73-92c9-d8008d35321f.png">
