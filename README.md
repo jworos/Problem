@@ -76,6 +76,7 @@ After scanning, I got the following open ports;
 62078 - iPhone-sync
 
 I was able to connect to these ports using Netcat on terminal.
-![Uploading Screenshot 2022-04-12 at 21.09.15.png…]()
+<img width="1440" alt="Screenshot 2022-04-12 at 21 09 15" src="https://user-images.githubusercontent.com/85462184/163055091-eaa1837b-3a96-4ffc-9d1e-9cd4df2543bd.png">
+
 <img width="586" alt="Screenshot 2022-04-12 at 21 05 41" src="https://user-images.githubusercontent.com/85462184/163054872-7faa88ae-5b1a-41a3-9afe-aec03c4edb05.png">
 
